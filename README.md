@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi, I'm Patiparn 👋
 
-<!--
-**PaanPatiPhi/PaanPatiPhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I’m a former Automation & Robotics Engineer transitioning into Software Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Focused on **Backend Development** with Fullstack capabilities
+* Experience in building APIs, designing systems, and integrating frontend applications
+* Strong problem-solving mindset from real-world engineering systems
+
+---
+
+## ⚙️ Backend (Primary Focus)
+
+* Node.js (Express)
+* Next.js (API Routes)
+* Java (Spring Boot)
+
+## 🗄 Database
+
+* PostgreSQL
+* Prisma ORM
+
+---
+
+## 💻 Frontend (Supporting Skills)
+
+* React
+* Next.js
+* Vue.js
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 Fullstack Application (Next.js + Prisma)
+
+* Designed backend APIs and database schema
+* Implemented authentication and business logic
+* Built frontend UI to consume APIs
+
+### 🔹 REST API Server (Express.js)
+
+* Built scalable API structure with middleware
+* Implemented CRUD operations and routing
+
+### 🔹 Backend Service (Spring Boot)
+
+* Developed REST APIs using layered architecture
+* Applied Controller / Service / Repository pattern
+
+---
+
+## 🧠 Backend Focus
+
+* RESTful API Design
+* System Architecture (Layered / MVC)
+* Database Design (Relational)
+* Authentication (JWT / Session)
+
+---
+
+## 📌 Current Direction
+
+* Strengthening backend system design
+* Building production-ready fullstack applications
+* Preparing for Backend / Fullstack Developer roles
+
+---
+
+## 📫 Contact
+
+* Email: [your_email@example.com](mailto:your_email@example.com)
+* LinkedIn: https://linkedin.com/in/your-profile

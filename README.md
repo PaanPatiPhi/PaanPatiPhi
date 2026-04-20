@@ -4,30 +4,30 @@
 
 I’m a former Automation & Robotics Engineer transitioning into Software Development.
 
-* Focused on **Backend Development** with Fullstack capabilities
+* Interested in **Fullstack Development** with strong backend foundation
 * Experience in building APIs, designing systems, and integrating frontend applications
 * Strong problem-solving mindset from real-world engineering systems
 
 ---
 
-## ⚙️ Backend (Primary Focus)
+## 🛠 Tech Stack
+
+### ⚙️ Backend
 
 * Node.js (Express)
 * Next.js (API Routes)
 * Java (Spring Boot)
 
-## 🗄 Database
-
-* PostgreSQL
-* Prisma ORM
-
----
-
-## 💻 Frontend (Supporting Skills)
+### 💻 Frontend
 
 * React
 * Next.js
 * Vue.js
+
+### 🗄 Database
+
+* PostgreSQL
+* Prisma ORM
 
 ---
 
@@ -51,24 +51,23 @@ I’m a former Automation & Robotics Engineer transitioning into Software Develo
 
 ---
 
-## 🧠 Backend Focus
+## 🧠 What I Focus On
 
-* RESTful API Design
-* System Architecture (Layered / MVC)
-* Database Design (Relational)
-* Authentication (JWT / Session)
+* Building end-to-end web applications
+* Designing clean and maintainable APIs
+* Connecting frontend and backend systems effectively
 
 ---
 
 ## 📌 Current Direction
 
+* Improving fullstack development skills
 * Strengthening backend system design
-* Building production-ready fullstack applications
-* Preparing for Backend / Fullstack Developer roles
+* Preparing for Fullstack / Backend Developer roles
 
 ---
 
 ## 📫 Contact
 
-* Email: [your_email@example.com](mailto:your_email@example.com)
-* LinkedIn: https://linkedin.com/in/your-profile
+* Email: [patiparn.phi@gmail.com](mailto:patiparn.phi@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/patiparn-thamboonrak/
